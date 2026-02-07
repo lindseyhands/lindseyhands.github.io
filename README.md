@@ -1,2 +1,0 @@
-# lindseyhands.github.io
-website
