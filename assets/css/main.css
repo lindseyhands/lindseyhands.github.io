@@ -3236,9 +3236,17 @@ input, select, textarea {
 
 			}
 
-		.wrapper.alt {
-			background-color: #261c3e;
+		#wrapper {
+		    background-image: url("../images/eagleneb.png");
+		    background-size: cover;
+		    background-position: center;
+		    background-repeat: no-repeat;
+		    background-attachment: fixed;
 		}
+
+		/* .wrapper.alt {
+			background-color: #261c3e;
+		} */
 
 		.wrapper.style1 {
 			background-color: #5e42a6;
@@ -3908,3 +3916,4 @@ input, select, textarea {
 			}
 
 		}
+
