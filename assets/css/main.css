@@ -3236,7 +3236,7 @@ input, select, textarea {
 
 			}
 
-		#wrapper.alt {
+		.wrapper.alt {
 		    background-image: url("lindseyhands.github.io/images/eagleneb.png");
 		    background-size: cover;
 		    background-position: center;
@@ -3916,6 +3916,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 
 
