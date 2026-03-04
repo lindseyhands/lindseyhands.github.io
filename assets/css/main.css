@@ -3248,8 +3248,15 @@ input, select, textarea {
 			background-color: #261c3e;
 		} */
 
-		.wrapper.style1 {
+		/* .wrapper.style1 {
 			background-color: #5e42a6;
+		} */
+		.wrapper.style1-alt {
+			background-image: url("../images/ngc628.jpg");
+		    background-size: cover;
+		    background-position: center;
+		    background-repeat: no-repeat;
+		    background-attachment: fixed;
 		}
 
 		.wrapper.style1-alt {
@@ -3916,6 +3923,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 
 
