@@ -3251,7 +3251,7 @@ input, select, textarea {
 		/* .wrapper.style1 {
 			background-color: #5e42a6;
 		} */
-		.wrapper.style1-alt {
+		.wrapper.style1 {
 			background-image: url("../images/ngc628.jpg");
 		    background-size: cover;
 		    background-position: center;
@@ -3923,6 +3923,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 
 
