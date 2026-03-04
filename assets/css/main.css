@@ -5,6 +5,7 @@
 	Paradigm Shift by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
 */
 
 html, body, div, span, applet, object,
@@ -1892,9 +1893,9 @@ input, select, textarea {
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: rgba(73, 252, 212, 0.25);
-			box-shadow: inset 0 0 0 2px #2ee4bb;
-			color: #2ee4bb !important;
+			background-color: rgba(36, 101, 255, 0.25);
+			box-shadow: inset 0 0 0 2px #2466ff;
+			color: #2466ff !important;
 		}
 
 		input[type="submit"].small,
